@@ -43,7 +43,7 @@ def is_palindrome(num, l, r):
 
 number = 100000
 condition = True
-palindrome_number = 0
+
 
 while condition:
    if (is_palindrome(number, 2, 6) and
